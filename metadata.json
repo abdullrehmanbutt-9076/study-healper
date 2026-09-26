@@ -1,0 +1,6 @@
+{
+  "name": "Talib AI",
+  "description": "Bilingual AI Student Companion with photo problem solver, AI-driven analytics, real-time study collaboration, and secure cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
